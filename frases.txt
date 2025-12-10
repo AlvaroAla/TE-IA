@@ -1,0 +1,4 @@
+O rato roeu a roupa do rei de Roma.
+Hoje é um ótimo dia para estudar NLP.
+Tokenização é importante para modelos de linguagem.
+Frases de exemplo para treinar meu tokenizador.
