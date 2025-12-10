@@ -1,4 +1,108 @@
-O rato roeu a roupa do rei de Roma.
-Hoje é um ótimo dia para estudar NLP.
-Tokenização é importante para modelos de linguagem.
-Frases de exemplo para treinar meu tokenizador.
+Hoje o dia está bonito.
+Estou testando meu tokenizador personalizado.
+A inteligência artificial está avançando rapidamente.
+Eu gosto de aprender coisas novas.
+O café está muito quente.
+Preciso estudar mais sobre NLP.
+Amanhã vou começar um novo projeto.
+O tempo passa depressa demais.
+A vida é cheia de desafios.
+Eu adoro programar em Python.
+O cachorro correu atrás da bola.
+Ela está lendo um livro interessante.
+Nós vamos viajar amanhã cedo.
+O computador travou de repente.
+Nada é impossível com dedicação.
+A curiosidade move a ciência.
+Estou aprendendo tokenização neste momento.
+As redes neurais são impressionantes.
+A prática leva à perfeição.
+Nunca é tarde para recomeçar.
+
+
+
+Você está bem?
+Isso é sério!
+Caramba, funcionou!
+Ei, você aí — pode me ajudar?
+Não acredito...
+Sim, sim, claro — sem problemas.
+Vamos lá, rápido!
+Eles disseram: "Volte aqui imediatamente!"
+Cuidado! A porta está aberta!
+Ok, mas por quê?
+
+
+Apesar de todos os desafios encontrados no caminho, continuamos avançando com perseverança e determinação.
+A tecnologia tem transformado profundamente a maneira como vivemos, trabalhamos e nos comunicamos diariamente.
+Muitas vezes, aquilo que parece difícil no começo se torna simples depois de um pouco de prática.
+O estudo consistente e bem direcionado é a chave para dominar qualquer área do conhecimento, incluindo inteligência artificial.
+Ao entender como funciona a tokenização, conseguimos compreender melhor como modelos de linguagem processam texto.
+
+
+
+Modelos baseados em BPE aprendem pares de tokens mais frequentes em um corpus.
+O GPT-2 utiliza ByteLevel BPE como tokenizador padrão.
+Transformers revolucionaram o campo de NLP com atenção multi-head.
+O aprendizado não supervisionado é essencial para pré-treinamento de modelos.
+A GPU acelerou significativamente a execução de redes neurais profundas.
+Tokenizers precisam ser treinados com corpora diversos para evitar <unk>.
+A normalização NFD separa caracteres acentuados em seus componentes.
+O processamento de linguagem natural depende de estatísticas do corpus.
+A etapa de pré-tokenização afeta diretamente o vocabulário final.
+Os embeddings representam palavras em espaços vetoriais de alta dimensão.
+
+
+
+Hoje acordei às 07:35.
+Comprei 2 livros e 3 cadernos.
+O modelo atingiu 94.7% de acurácia.
+A temperatura está em 31°C.
+Meu código tem 128 linhas.
+O dataset possui 50.000 exemplos.
+Paguei R$ 123,90 no total.
+Ele correu 5 km em 24 minutos.
+A versão 1.3.0 corrigiu vários bugs.
+O tokenizador final terá vocabulário 5000.
+
+
+
+Estou muito feliz hoje 😄
+Esse projeto está difícil 😓
+A comida estava deliciosa 😋
+Que susto! 😱
+Vamos trabalhar duro 💪🔥
+Esse código ficou ótimo 👌
+Preciso descansar um pouco 😴
+Parabéns pelo resultado 🎉
+Esse erro me deixou confuso 🤔
+O dia foi perfeito ☀️😎
+
+
+
+I love studying machine learning.
+This tokenizer is working perfectly!
+The model was trained using PyTorch.
+Let's run the experiment again.
+Deep learning is fascinating.
+This is a multilingual dataset.
+The loss function decreased significantly.
+The accuracy improved after fine-tuning.
+This is a sentence mixing English and Portuguese.
+The training loop failed due to a memory error.
+
+
+
+Mano, você não vai acreditar no que aconteceu.
+Cara, isso tá muito estranho.
+Pô, ficou top demais!
+Relaxa, amanhã a gente resolve.
+Ei, me chama no Whats depois.
+Bora ali comer alguma coisa?
+Nossa, que preguiça hoje.
+Confia, vai dar tudo certo.
+Que bagunça é essa aqui?
+Tô sem ideia nenhuma agora.
+```
+
+
